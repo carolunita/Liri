@@ -2,7 +2,7 @@
 Node.js homework assignment - LIRI bot. A Node.js application which accepts user input and completes requests accordingly.
 
 # Instructions
-In the command line, enter "node.js liri.js (command) (specify)." (Command) and (specify) are placeholders for user inputs. See below for a list of possible commands. Specify refers to a specific search query, such as a movie or song title, which is entered as a string.
+In the command line, enter "node liri.js (command) (specify)." (Command) and (specify) are placeholders for user inputs. See below for a list of possible commands. Specify refers to a specific search query, such as a movie or song title, which is entered as a string.
 
 # Commands
 1. my-tweets - Displays the user's last 10 tweets and their date of creation.
