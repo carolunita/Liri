@@ -1,5 +1,5 @@
-# liri
-Node.js homework assignment - LIRI bot. A Node.js application which accepts user input and completes requests accordingly.
+# Liri
+A Node.js application which accepts user input and completes requests accordingly.
 
 # Requirements
 You will need to have the following Node.js packages installed prior to running this application: dotenv, inquirer, node-spotify-api, request, and twitter.
@@ -18,3 +18,9 @@ In the command line, enter "node liri.js (command) (specify)." (Command) and (sp
 
 # Log
 A record is kept of all executed commands and results in the log.txt file.
+
+# Technologies Used
+* JavaScript
+* jQuery
+* Node.js
+* Node.js packages (dotenv, inquirer, node-spotify-api, request, twitter)
