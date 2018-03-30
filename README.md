@@ -5,7 +5,7 @@ A Node.js application which accepts user input and completes requests accordingl
 You will need to have the following Node.js packages installed prior to running this application: dotenv, inquirer, node-spotify-api, request, and twitter.
 
 # Instructions
-In the command line, enter "node liri.js (command) (specify)." (Command) and (specify) are placeholders for user inputs. See below for a list of possible commands. Specify refers to a specific search query, such as a movie or song title, which is entered as a string.
+In the command line, enter "node liri.js (command) (specify)." (Command) and (specify) are placeholders for user inputs. See below for a list of possible commands. Specify refers to a specific search query, such as a movie or song title, which is entered as a string enclosed in quotes.
 
 # Commands
 1. my-tweets - Displays the user's last 10 tweets and their date of creation.
