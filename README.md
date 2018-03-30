@@ -21,6 +21,5 @@ A record is kept of all executed commands and results in the log.txt file.
 
 # Technologies Used
 * JavaScript
-* jQuery
 * Node.js
 * Node.js packages (dotenv, inquirer, node-spotify-api, request, twitter)
