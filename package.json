@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/karamui/liri/issues"
   },
-  "homepage": "https://github.com/karamui/liri#readme"
+  "homepage": "https://github.com/karamui/liri#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "inquirer": "^5.2.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.85.0",
+    "twitter": "^1.7.1"
+  }
 }
